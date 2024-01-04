@@ -1,5 +1,5 @@
 # Factors_Influencing_Eyeglasses_among_BSIT2_students
-Dataset for project in ITEC-203 uploaded in Github.
+Dataset for Group project(Anonuevo, Joven, Manalo, Rebong, Reyes, San Gaspar, Visda, Viterbo) in ITEC-203 uploaded in Github.
 
 [Download Dataset](Factors_Influencing_Eyeglasses_among_BSIT2_students.csv)
 
